@@ -55,17 +55,14 @@ Este projeto contém três questões medianas de aprendizado de máquina resolvi
    
    ```bash
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Execute os notebooks Jupyter:
 
    ```bash
 
-jupyter notebook
+   jupyter notebook
 
-4.  ```bash
-
-jupyter notebook
 
 ## Resultados
 Os resultados das análises e modelos treinados estão disponíveis na pasta results/. Cada notebook contém visualizações e métricas de desempenho dos modelos.

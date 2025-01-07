@@ -1,6 +1,6 @@
 ## 🖥️| Projeto de Aprendizado de Máquina com Python
 
-## | Descrição
+## 📄| Descrição
 Este projeto contém três questões medianas de aprendizado de máquina resolvidas com Python. O objetivo é demonstrar habilidades práticas na aplicação de algoritmos de aprendizado de máquina para resolver problemas específicos.
 
 ## | Estrutura do Projeto

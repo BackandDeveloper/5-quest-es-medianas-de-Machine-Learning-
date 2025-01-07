@@ -63,7 +63,6 @@ Este projeto contém três questões medianas de aprendizado de máquina resolvi
 
    jupyter notebook
 
-
 ## 🗒️| Resultados
 Os resultados das análises e modelos treinados estão disponíveis na pasta results/. Cada notebook contém visualizações e métricas de desempenho dos modelos.
 

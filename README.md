@@ -3,7 +3,7 @@
 ## 📄| Descrição
 Este projeto contém três questões medianas de aprendizado de máquina resolvidas com Python. O objetivo é demonstrar habilidades práticas na aplicação de algoritmos de aprendizado de máquina para resolver problemas específicos.
 
-## | Estrutura do Projeto
+## 🗂️| Estrutura do Projeto
 - `data/`: Contém os conjuntos de dados utilizados nas questões.
 - `notebooks/`: Contém os notebooks Jupyter com as soluções das questões.
 - `scripts/`: Contém scripts Python utilizados para preprocessamento de dados e treinamento de modelos.

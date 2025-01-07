@@ -9,7 +9,7 @@ Este projeto contém três questões medianas de aprendizado de máquina resolvi
 - `scripts/`: Contém scripts Python utilizados para preprocessamento de dados e treinamento de modelos.
 - `results/`: Contém os resultados e visualizações gerados pelos notebooks.
 
-## Questões
+## |Questões
 1. **Questão 1: Classificador KNN para o conjunto de dados Iris**
    - Algoritmo utilizado: K-Nearest Neighbors (KNN)
    - Descrição da solução: Implementação de um classificador KNN para o conjunto de dados Iris, com divisão dos dados em conjuntos de treino e teste, treinamento do modelo e avaliação da precisão.

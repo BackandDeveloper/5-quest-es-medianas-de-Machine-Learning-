@@ -40,7 +40,7 @@ Este projeto contém três questões medianas de aprendizado de máquina resolvi
   - seaborn
   - jupyter
 
-## | Como Executar
+## 📖| Como Executar
 1. Clone este repositório:
    ```bash
    git clone https://github.com/BackandDeveloper/seu-repositorio.git

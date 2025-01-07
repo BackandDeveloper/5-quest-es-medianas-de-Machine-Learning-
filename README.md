@@ -30,7 +30,7 @@ Este projeto contém três questões medianas de aprendizado de máquina resolvi
    - Algoritmo utilizado: PCA
    - Descrição da solução: Aplicação da Análise de Componentes Principais (PCA) ao conjunto de dados Digits para reduzir a dimensionalidade para 2 componentes principais e visualização dos dados.
 
-## |Requisitos
+## | Requisitos
 - Python 3.x
 - Bibliotecas necessárias:
   - numpy

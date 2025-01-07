@@ -69,7 +69,7 @@ Os resultados das análises e modelos treinados estão disponíveis na pasta res
 ## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-## | Licença
+## 📑| Licença
 Este projeto está licenciado sob a MIT License.
 
 ## | Contato
